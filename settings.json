@@ -6,8 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "surviveltwins.aternos.me
-",
+    "ip": "surviveltwins.aternos.me",
     "port": 58368,
     "version": "",
     "try-creative": false
